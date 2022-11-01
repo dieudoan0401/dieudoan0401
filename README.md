@@ -1,7 +1,7 @@
 ### Welcome to my Github 👋
 
 - 🌱 I’m currently learning at University of Economics and law
-- 👯 I aim to be a BI
+- 👯 I aim to be a Business Intelligence Analyst
 <!--
 **dieudoan0401/dieudoan0401** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
